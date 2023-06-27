@@ -1,6 +1,7 @@
 #!/usr/bin/python3
-
 # 102-magic_calculation.py
+# Netia Melvin Atemba <melvinatemba18@gmail.com>
+
 
 def magic_calculation(a, b):
     result = 0
