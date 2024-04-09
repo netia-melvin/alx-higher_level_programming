@@ -5,5 +5,5 @@ function add (a, b) {
   return result;
 }
 let num1 = parseInt(Number(arg[2]));
-let num2 = parseInt(Number(arg[3]));
+const num2 = parseInt(Number(arg[3]));
 console.log(add(num1, num2));
